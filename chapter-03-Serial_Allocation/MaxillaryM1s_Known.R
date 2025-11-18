@@ -62,3 +62,4 @@ maxM1_plot2
 ggarrange(maxM1_plot1, maxM1_plot2, 
           labels = c("A", "B"),
           ncol = 1, nrow = 2)
+
